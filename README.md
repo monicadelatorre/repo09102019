@@ -1,7 +1,1 @@
-Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
-Contains the following:
-Landing page
-Comparisons page
-Data page
-Visualization pages
-Navigation menu
+This will be the location of my portfolio while transitioning into a Data Analyst Career.
